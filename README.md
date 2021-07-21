@@ -8,7 +8,7 @@
 
 ## 프로젝트명
 
-**KNU Tutorial (KNU.Tutor)**
+KNU Tutorial (KNU.Tutor)
 
 
 ## 프로젝트 배경 및 목표
