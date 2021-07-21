@@ -6,7 +6,7 @@
 
 ---
 
-## 개발 프로젝트 주제
+## 프로젝트 주제
 
 **KNU Tutorial (KNU.Tutor)**
 
