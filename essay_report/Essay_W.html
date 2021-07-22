@@ -1,27 +1,28 @@
 <!DOCTYPE html>
-<html lang="ko">
+<html lang="ko"> 
 <head>
     <meta charset="UTF-8">
     <title>Essay-w</title>
-    <link rel="stylesheet" type="text/css" href="css\style.css"/>
+    <link rel="stylesheet" type="text/css" href="css/style.css"/>
 </head>
 <body>
     <div class="container">
         <h2 class = title><b>Writing an essay</b></h2>
-        <h3>[ 운영체제 ] 3주차 목요일 </h3>
-        <form>
+        <h3>[ 운영체제 ] </h3> 
+        <form action="/add" method="POST">
+            <input class="day" type = "text" placeholder="주차_요일 형식으로 입력하세요." name="day">
             <div>
                 <div>
                     <div><b>Topic</b></div>
-                    <input class="title2" type="text" placeholder="주제를 입력하세요.">
+                    <input class="title2" type="text"  placeholder="주제를 입력하세요." name= "title2">
                 </div>
                 <div>
                     <div><b>Text</b></div>
-                    <textarea class="contents" type="text"  placeholder="본문을 입력하세요."></textarea>
+                    <textarea class="contents" type="text"  placeholder="본문을 입력하세요." name="contents" ></textarea>
                 </div>
                 <div>
                     <div><b>References</b></div>
-                    <textarea class="references" type="text"  placeholder="참고문헌을 입력하세요."></textarea>
+                    <textarea class="references" type="text"  placeholder="참고문헌을 입력하세요." name="references"></textarea>
                 </div>
                 <div>
                     <button class="but" type="submit" value="Submit">Submit</button>
