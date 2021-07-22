@@ -136,6 +136,7 @@
   ~~~
                                                                         2.
                                                     Login Now 클릭 시, Log in 페이지로 이동
+                                                    Login ID-PASSWORD는 yes 정보를 바탕으로 함
                                                     DB에 저장된 ID가 아닐 시 오류 팝업창을 띄워줌
                                                     DB에 저장된 password가 아닐 시 오류창을 띄워줌
   ~~~
@@ -149,7 +150,7 @@
                                                     수강 중인 과목 중, 원하는 과목 강의실로 이동가능                                            
   ~~~
   
-<p align="center"><img src="https://user-images.githubusercontent.com/69031678/126721662-1903e4c4-f0ac-4869-a66c-b8b584c7b7cb.gif"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/69031678/126721850-105376bd-33ec-43e7-b93b-47676ca2c418.gif"></p>
 
 
 
