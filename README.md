@@ -6,6 +6,13 @@
    Key words: 첨성인, 캠퍼스, 스마트한 대학생활
 
 ---
+## :busts_in_silhouette: 팀원 소개
+
+'''
+김건희
+이수경
+엄다연
+'''
 
 ## :closed_book: 프로젝트명 : KNU Tutorial (KNU.Tutor)
 ![로고3](https://user-images.githubusercontent.com/69031678/126647811-b7b510d3-9385-4e87-845a-f1dd554ef45c.png)
