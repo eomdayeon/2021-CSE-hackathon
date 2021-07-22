@@ -1,3 +1,4 @@
+
 ## KNU_2021_HACKATHON 
    대회 주제: COVID-19로 변화된 대학 생활을 개선할 수 있는 창의적이고 혁신적인 소프트웨어 개발
    
@@ -10,7 +11,7 @@
 
 KNU Tutorial (KNU.Tutor)
 
-![로고1](https://user-images.githubusercontent.com/69031678/126646850-63f83342-8c4c-436d-a3ae-82aa120a5c50.png)
+![로고1](https://user-images.githubusercontent.com/69031678/126646850-63f83342-8c4c-436d-a3ae-82aa120a5c50.png) ![로고2](https://user-images.githubusercontent.com/69031678/126646939-878170bf-5b23-4738-8124-7b05b2fa57f9.png)
 
 
 
