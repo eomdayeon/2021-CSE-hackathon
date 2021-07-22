@@ -122,12 +122,18 @@
 ## :speech_balloon: 화면 구성
 
   ~~~
-                   1.    KNU Tutorial에 대한 소개를 담고 있는 페이지
-                         KNU News를 확인할 수 있는 링크 모음, 그리고
-                         KNU Tutorial과 관련한 문의사항을 남기는 공간 
+                                                     1.    KNU Tutorial에 대한 소개를 담고 있는 페이지
+                                                           KNU News를 확인할 수 있는 링크 모음, 그리고
+                                                           KNU Tutorial과 관련한 문의사항을 남기는 공간 
   ~~~
 <p align="center"><img src="https://user-images.githubusercontent.com/69031678/126720229-17fbba53-88ff-4027-92d0-a9054afb25ba.gif"></p>
 
+  ~~~
+                                                     2.    Login Now 클릭 시, Log in 페이지로 이동
+                                                           DB에 저장된 ID가 아닐 시 오류 팝업창을 띄워줌
+                                                           DB에 저장된 password가 아닐 시 오류창을 띄워줌
+  ~~~
+<p align="center"><img src="https://user-images.githubusercontent.com/69031678/126721099-7cc3d2b0-9338-47ad-8c02-aeff8595188c.gif"></p>
 
 
 
