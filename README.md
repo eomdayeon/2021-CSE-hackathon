@@ -7,7 +7,7 @@
 
 ---
 
-##  프로젝트명 : KNU Tutorial (KNU.Tutor)
+## :closed_book:프로젝트명 : KNU Tutorial (KNU.Tutor)
 ![로고3](https://user-images.githubusercontent.com/69031678/126647811-b7b510d3-9385-4e87-845a-f1dd554ef45c.png)
 
 
