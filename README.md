@@ -7,10 +7,7 @@
 
 ---
 
-##  프로젝트명
-
-KNU Tutorial (KNU.Tutor)
-
+##  프로젝트명 : KNU Tutorial (KNU.Tutor)
 ![로고1](https://user-images.githubusercontent.com/69031678/126646850-63f83342-8c4c-436d-a3ae-82aa120a5c50.png) ![로고2](https://user-images.githubusercontent.com/69031678/126646939-878170bf-5b23-4738-8124-7b05b2fa57f9.png)
 
 
