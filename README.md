@@ -132,15 +132,24 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/69031678/126720229-17fbba53-88ff-4027-92d0-a9054afb25ba.gif"></p>
 
 
-<h5 align="center"> 2. </h5>
  
   ~~~
+                                                                        2.
                                                     Login Now 클릭 시, Log in 페이지로 이동
                                                     DB에 저장된 ID가 아닐 시 오류 팝업창을 띄워줌
                                                     DB에 저장된 password가 아닐 시 오류창을 띄워줌
   ~~~
   
 <p align="center"><img src="https://user-images.githubusercontent.com/69031678/126721099-7cc3d2b0-9338-47ad-8c02-aeff8595188c.gif"></p>
+
+
+  ~~~
+                                                                        3.
+                                                    정상적인 로그인 완료 시, 수강 목록창으로 이동
+                                                    수강 중인 과목 중, 원하는 과목 강의실로 이동가능                                            
+  ~~~
+  
+<p align="center"><img src="https://user-images.githubusercontent.com/69031678/126721662-1903e4c4-f0ac-4869-a66c-b8b584c7b7cb.gif"></p>
 
 
 
