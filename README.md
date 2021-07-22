@@ -12,10 +12,8 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/69031678/126647811-b7b510d3-9385-4e87-845a-f1dd554ef45c.png"></p>
 
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/69031678/126671566-86cba7eb-e2c9-43c1-960a-5bc3d99fad1d.gif)![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/69031678/126672351-b0ee7886-f0de-4fec-9c17-71b5a1a4d9ea.gif) 
 
-
-
+<p align="center"><img src="https://user-images.githubusercontent.com/69031678/126672840-9fd68b80-1dff-4309-865a-7b292caae1dd.gif"></p>
 
 ## :umbrella: 개발 동기 및 배경
 
