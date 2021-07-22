@@ -97,7 +97,7 @@
 
 
 
-## :high_brightness: 성장 전략
+## :chart_with_upwards_trend: 성장 전략
 
 
 
