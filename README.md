@@ -10,7 +10,7 @@
 
 KNU Tutorial (KNU.Tutor)
 
-![로고1](https://user-images.githubusercontent.com/69031678/126646717-fb46a803-cdf3-41e3-86bc-3e0c7a7b44f7.png)![로고2](https://user-images.githubusercontent.com/69031678/126646739-4f182c48-dc97-4e63-b1a3-bad626dced52.png)
+![로고1](https://user-images.githubusercontent.com/69031678/126646850-63f83342-8c4c-436d-a3ae-82aa120a5c50.png)
 
 
 
