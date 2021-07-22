@@ -121,6 +121,8 @@
 
 ## :speech_balloon: 화면 구성
 
+<p align="center"><img src="https://user-images.githubusercontent.com/69031678/126720229-17fbba53-88ff-4027-92d0-a9054afb25ba.gif"></p>
+
 
 
 
