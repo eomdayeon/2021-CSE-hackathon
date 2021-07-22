@@ -8,7 +8,8 @@
 ---
 
 ##  프로젝트명 : KNU Tutorial (KNU.Tutor)
-![로고1](https://user-images.githubusercontent.com/69031678/126646850-63f83342-8c4c-436d-a3ae-82aa120a5c50.png) ![로고2](https://user-images.githubusercontent.com/69031678/126647385-2cace8ad-0fba-44c6-8a73-74f03ed2b4ef.png)
+![로고3](https://user-images.githubusercontent.com/69031678/126647734-d8bd1313-00e6-4904-a87c-997bfce965b7.png)
+
 
 
 ## 프로젝트 배경 및 목표
