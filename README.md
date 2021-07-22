@@ -147,7 +147,7 @@
   ~~~
                                                                         3.
                                                     정상적인 로그인 완료 시, 수강 목록창으로 이동
-                                                    수강 중인 과목 중, 원하는 과목 강의실로 이동가능                                            
+                                                    수강 중인 과목 중, 원하는 과목 강의실로 이동가능
   ~~~
   
 <p align="center"><img src="https://user-images.githubusercontent.com/69031678/126721850-105376bd-33ec-43e7-b93b-47676ca2c418.gif"></p>
