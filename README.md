@@ -7,9 +7,9 @@
 
 ---
 
-<p align="center"><img src="https://user-images.githubusercontent.com/69031678/126679876-ff7daf65-1c5d-4c77-bc57-0fa70a2fdbd0.png"></p>
 <h1 align="center"> :closed_book: 프로젝트명 : KNU Tutorial (KNU.Tutor)</h1>
 
+<p align="center"><img src="https://user-images.githubusercontent.com/69031678/126679972-2858cbec-ca36-4e0e-a410-5921003dd5ca.png"></p>
 
 
 
