@@ -162,7 +162,7 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/69031678/126722566-d3e18024-1998-4ca1-a16b-09bbfe8bf1d0.gif"></p>
 
   ~~~
-                                                                       5.
+                                                                     5.
                                                     에세이 및 학습 후 정리 리포트 작성가능
                                                      작성한 에세이와 리포트는 DB에 저장됨
                                                        저장된 에세이와 리포트 확인 가능
