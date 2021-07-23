@@ -194,11 +194,11 @@ DB에 저장된 password가 아닐 시 오류창을 띄워줌
 ## 실행 방법
 1. **패키지 설치**
    - npm install (패키지) 명령어를 통해 아래의 패키지를 설치한다.
-     "body-parser": "^1.19.0",
-     "ejs": "^3.1.6",
-     "express": "^4.17.1",
-     "mongodb": "^4.0.1",
-     "mongoose": "^5.13.3"
+     "body-parser": "^1.19.0",   
+     "ejs": "^3.1.6",   
+     "express": "^4.17.1",   
+     "mongodb": "^4.0.1",   
+     "mongoose": "^5.13.3"   
 2. **서버 실행**
    - node server.js 명령어로 서버를 실행시킨다.
 3. **localhost:5050 (포트번호) 실행**
