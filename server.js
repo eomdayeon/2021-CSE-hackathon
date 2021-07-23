@@ -9,12 +9,12 @@ const Report = require('./models/Report');
 const MONGODB_URL = 'mongodb+srv://geon:pass1234@cluster0.lopfh.mongodb.net/ori?retryWrites=true&w=majority'
 const newEssay = new Essay();
 
-app.listen(5050, (err)=>{
+app.listen(8080, (err)=>{
     if(err){
         return console.log(err);
     }
     else{
-        console.log('listening on 5050');
+        console.log('listening on 8080');
         mongoose.connect(MONGODB_URL,{useNewUrlParser:true,useUnifiedTopology: true},(err)=>{
             if(err){
                 return console.log(err);
@@ -24,7 +24,6 @@ app.listen(5050, (err)=>{
         });        
     }
 });
-
 
 app.set('views',__dirname+'/views');
 app.set('view engine','ejs');
@@ -62,18 +61,8 @@ app.get('/Essay_R',function(req, res){
     });
 
 app.get('/Report_W',function(req, res){
-    Essay.findOne({day:"3_목"})
-        .then((e_d)=>{
-            console.log(e_d);
-            res.render('Report_W',{'data':e_d},function(err,html){
-                if(err){
-                    console.log(err);
-                }
-                res.sendFile(__dirname+'/views/Report_W.ejs');
-                res.end(html);
-            });
-        });
-    });
+    res.sendFile(__dirname+'/Report_W.html');
+});
 
 app.get('/Report_R',function(req, res){
     Report.findOne({days:"3_목"})
@@ -89,13 +78,13 @@ app.get('/Report_R',function(req, res){
         });
     });
 
-
 app.use(express.static(path.join(__dirname,'/')));
 app.use(express.urlencoded({extended:true}));
-app.use(express.urlencoded({ 
-    extended: true
-}));
-app.use(express.json());
+app.use(bodyParser.urlencoded({ 
+        extended: true
+    }));
+app.use(bodyParser.json());
+    
 
 app.post("/login", async(req,res)=> {
     const user = new User(req.body);
