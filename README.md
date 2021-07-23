@@ -124,48 +124,48 @@
 
 
   ~~~
-                                                                      1.    
-                                                 KNU Tutorial에 대한 소개를 담고 있는 페이지
-                                                 KNU News를 확인할 수 있는 링크 모음, 그리고
-                                                 KNU Tutorial과 관련한 문의사항을 남기는 공간 
+                                                              1.    
+                                             KNU Tutorial에 대한 소개를 담고 있는 페이지
+                                             KNU News를 확인할 수 있는 링크 모음, 그리고
+                                             KNU Tutorial과 관련한 문의사항을 남기는 공간 
   ~~~
 <p align="center"><img src="https://user-images.githubusercontent.com/69031678/126720229-17fbba53-88ff-4027-92d0-a9054afb25ba.gif"></p>
 
 
  
   ~~~
-                                                                      2.
-                                                    Login Now 클릭 시, Log in 페이지로 이동
-                                                   Login ID-PASSWORD는 yes 정보를 바탕으로 함
-                                                  DB에 저장된 ID가 아닐 시 오류 팝업창을 띄워줌
-                                                  DB에 저장된 password가 아닐 시 오류창을 띄워줌
+                                                              2.
+                                             Login Now 클릭 시, Log in 페이지로 이동
+                                            Login ID-PASSWORD는 yes 정보를 바탕으로 함
+                                            DB에 저장된 ID가 아닐 시 오류 팝업창을 띄워줌
+                                           DB에 저장된 password가 아닐 시 오류창을 띄워줌
   ~~~
   
 <p align="center"><img src="https://user-images.githubusercontent.com/69031678/126721099-7cc3d2b0-9338-47ad-8c02-aeff8595188c.gif"></p>
 
 
   ~~~
-                                                                     3.
-                                                  정상적인 로그인 완료 시, 수강 목록창으로 이동
-                                                 수강 중인 과목 중, 원하는 과목 강의실로 이동가능
+                                                              3.
+                                            정상적인 로그인 완료 시, 수강 목록창으로 이동
+                                           수강 중인 과목 중, 원하는 과목 강의실로 이동가능
   ~~~
   
 <p align="center"><img src="https://user-images.githubusercontent.com/69031678/126721850-105376bd-33ec-43e7-b93b-47676ca2c418.gif"></p>
 
   ~~~
-                                                                     4.
-                                                  수강 과목을 고른 후, Classroom 으로 이동
-                                                  에세이 작성, 1:3 튜토리얼, 학습 후 정리방
-                                                          세 가지의 메뉴를 이용 가능
+                                                              4.
+                                            수강 과목을 고른 후, Classroom 으로 이동
+                                            에세이 작성, 1:3 튜토리얼, 학습 후 정리방
+                                                  세 가지의 메뉴를 이용 가능
   ~~~
   
 <p align="center"><img src="https://user-images.githubusercontent.com/69031678/126722566-d3e18024-1998-4ca1-a16b-09bbfe8bf1d0.gif"></p>
 
   ~~~
-                                                                   5.
-                                                  에세이 및 학습 후 정리 리포트 작성가능
-                                                   작성한 에세이와 리포트는 DB에 저장됨
-                                                     저장된 에세이와 리포트 확인 가능
+                                                             5.
+                                           에세이 및 학습 후 정리 리포트 작성가능
+                                             작성한 에세이와 리포트는 DB에 저장됨
+                                               저장된 에세이와 리포트 확인 가능
   ~~~
   
 <p align="center"><img src="으아아ㅏ"></p>
