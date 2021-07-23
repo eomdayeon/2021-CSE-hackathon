@@ -25,15 +25,11 @@ app.listen(5050, (err)=>{
     }
 });
 
-app.use(express.static(path.join(__dirname,'/')));
-app.use(express.urlencoded({extended:true}));
-app.use(bodyParser.urlencoded({ 
-    extended: true
-}));
-app.use(bodyParser.json());
 
 app.set('views',__dirname+'/views');
 app.set('view engine','ejs');
+
+
 
 app.get("/", (req, res) => {
     res.sendFile(__dirname+'/main.html');
@@ -92,6 +88,14 @@ app.get('/Report_R',function(req, res){
             });
         });
     });
+
+
+app.use(express.static(path.join(__dirname,'/')));
+app.use(express.urlencoded({extended:true}));
+app.use(express.urlencoded({ 
+    extended: true
+}));
+app.use(express.json());
 
 app.post("/login", async(req,res)=> {
     const user = new User(req.body);
