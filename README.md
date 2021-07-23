@@ -173,7 +173,7 @@ DB에 저장된 password가 아닐 시 오류창을 띄워줌
 
 
 ## :movie_camera: 데모 영상
-   url : https://www.youtube.com/watch?v=jYpDWZQI9N0
+   url : https://youtu.be/r1I2JDrYZuA
 
 
 
