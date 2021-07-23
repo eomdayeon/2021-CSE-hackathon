@@ -1,12 +1,12 @@
 @charset "URF-8";
 
-.container{
+.container_{
     float: left; 
     margin-top: 30px;
     margin-left: 140px;
     margin-bottom: 50px;
 }
-.container2{
+.container2_{
     float: left; 
     margin-top: 120px;
     margin-left: 150px;
