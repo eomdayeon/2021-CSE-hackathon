@@ -14,7 +14,7 @@ class UserStorage {
     }
     
     static getUserInfo(id){
-        return fs.readFile("./databases/users.json")
+        return fs.readFile("./src/databases/users.json")
             .then((data) => {
                 const users = JSON.parse(data);
                 const idx = users.id.indexOf(id);

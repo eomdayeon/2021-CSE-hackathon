@@ -1,5 +1,14 @@
 @charset "URF-8";
 
+
+.day_{
+    width: 200px;
+    background-color: #e2e2e2;
+    margin-bottom: 8px;
+    margin-top: 5px;
+    padding: 5px;
+    border-radius: 0.4em;
+}
 .container_{
     float: left; 
     margin-top: 30px;
